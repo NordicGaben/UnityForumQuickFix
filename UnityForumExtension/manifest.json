@@ -1,0 +1,17 @@
+{
+    "name": "$$Anonymous$$ fix",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Fixes '$$Anonymous$$' strings back to 'hi' on Unity forums, it checks if the url starts with 'https://answers.unity.com/'. This code was made by CHATGPT and could potentially be improved, I also hope only 'hi' is incorrectly displayed.",
+    "permissions": ["activeTab"],
+    "host_permissions": [
+      "https://answers.unity.com/*"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["https://answers.unity.com/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
