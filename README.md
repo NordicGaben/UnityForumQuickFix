@@ -15,7 +15,7 @@ You can clone this repository or directly copy the code from the file, then you 
 
 ![dev-mode](https://i.imgur.com/wtccp8w.png)
 
-then click "load unpacked" and select the folder with the downloaded files. After that you are good to go and safe to read the unity forums (to the best of my knowledge)
+then click "load unpacked" and select the folder 'UnityforumExtenion' which is in the repository. After that you are good to go and safe to read the unity forums (to the best of my knowledge)
 
 ---
 
