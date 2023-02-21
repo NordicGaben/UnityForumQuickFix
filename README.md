@@ -20,4 +20,4 @@ then click "load unpacked" and select the folder with the downloaded files. Afte
 ---
 
 ## Note!
-This only fixes the instances where there was supposed to be a 'hi', this seems the most recent form of the break but it used to be a problem that 'M' was replaced with $$anonymou$$. I'm unsure if that is still a problem but this works for me for now.
+This only fixes the instances where there was supposed to be a 'hi', this seems the most recent form of the break but it used to be a problem that 'M' was replaced with '$$anonymou$$'. I'm unsure if that is still a problem but this works for me for now.
